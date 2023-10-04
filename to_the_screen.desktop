@@ -1,0 +1,8 @@
+[Desktop Entry]
+Conmment=to_1440x900
+Exec=bash /home/deepin/Desktop/to_1440x900.sh
+Icon=deepin
+Name=to_1440x900
+Name[zh]=to_1440x900
+Type=Application
+X-Deepin-Vendor=deepin
